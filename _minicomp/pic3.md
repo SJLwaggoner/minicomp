@@ -1,13 +1,13 @@
 ---
 pid: pic3
-artist: Dorothy Spradley
-location: Savannah, GA, US
-commemorative_style: NA
-label: African American Monument
-_date: '2002'
-object_type: Monument
+artist: Alison Saar
+location: New York, NY, US
+commemorative_style: Interactive
+label: Swing Low Monument to Harriet Tubman
+_date: '2008'
+object_type: Public Sculpture
 concerning: US
-image_credit: Christina Connor
+image_credit: Joshua Waggoner/SJ Lauro
 order: '2'
 layout: minicomp_item
 collection: minicomp

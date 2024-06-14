@@ -4,30 +4,26 @@ title: About
 permalink: /about/
 ---
 
-_Facets_ is a theme for Wax sites that allows users to browse through a collection using facets, or filters. When we are browsing through a collection of cultural artifacts, we often want to reduce the number of objects in front of us to a small collection that fits a very specific criteria. Faceted browsing is a form of browsing that allows you to do just that using filters you select. In _Facets_ this can be achieved using drop-down menus where you can select the categories you want to browse by.
+S.J. Lauro, Ph.D, (she/her) is associate professor at the University of Tampa. She is the author/editor of many academic works on slavery and resistance, including about the folkloric zombie that comes to popular attention because of the slave trade. See for example the article “A Zombie Manifesto” (*boundary2*, 2011) and the book *The Transatlantic Zombie: Slavery, Rebellion, and Living Death* (Rutgers UP, 2015). Her more recent work is on enslaved resistance in literature, art, film, and digital media. On this topic she has published articles in *TDR: The Drama Review* (2021); *History of the Present* (2020); and elsewhere. Her next scholarly monograph is devoted to commemorations of enslaved resistance; it is under contract with the University of Minnesota Press. She has begun to publish fiction, with work in *South Carolina Review* (Spring 2024) and forthcoming in *Witness*.
 
-Besides the ability to do faceted browsing, _Facets_ also allows creators to extract any subcollection that can be filtered by category and use it on any page of the site. We hope this will be useful in the creation of exhibits that focus on particular sub-collections or selections.
+
 
 ---
 
-## Credits
+## Further Work on Commemoration and Opacity
 
-_Facets_ is the team work of Angela Zoss and Alex Gil. During the lockdown, they met religiously for two hours every week. They finally met in real life once the project was almost complete. _Facets_ builds on the work of Marii Nyröp, and the cheerful encouragement of the Wax community which gathers on [a channel on the Code4Lib Slack](https://code4lib.slack.com/archives/C01DKQ44GE4).
+*Monumental: Commemorations of Enslaved Resistance* is under contract with the University of Minnesota Press. It will address commemorations of enslaved resistance and various poetics of opacity mobilized therein in literature, art, film, digital media, museum exhibits, performance, and countermonuments. 
 
-### Angela Zoss
+### Anastácia Diptych
 
-Angela is the [Assessment &amp; Data Visualization Analyst](https://library.duke.edu/about/directory/staff/angela.zoss) in the
-[Assessment &amp; User Experience Department](https://library.duke.edu/about/depts/assessment-user-experience) in the
-[Duke University Libraries](https://library.duke.edu/). She has many years of experience
-in teaching and training, predominantly focusing on teaching data visualization to
-university students, faculty, and staff. She is also active in several open
-source development projects, including [FOLIO](https://github.com/folio-org/) and
-[Wax](https://github.com/minicomp/wax).
+"Escrava Anastácia" is a Brazilian folk heroine, enslaved martyr, and icon of resistance. You can read about her image and her commemoration in contemporary art in this essay on [Monument Lab](https://monumentlab.com/bulletin/anastacia-diptych).
 
-### Alex Gil
+### archipelagos
 
-Alex Gil is the Digital Scholarship Librarian at Columbia University, where he collaborates with faculty, students and library colleagues in humanities research, pedagogy and knowledge production that involves the use of advanced computation, digital media design, and network technologies. He is the lead coordinator for the [Butler Library Studio](https://studio.cul.columbia.edu/) at Columbia University Libraries, co-host of [Studio Remote](https://www.twitch.tv/culstudio), and co-founder of Columbia’s [Group for Experimental Methods in Humanistic Research](http://xpmethod.columbia.edu/).
+For work on videogames that address enslaved resistance, see my two publications on archipelagos: [Digital Saint Domingue: Playing Haiti in Videogames](https://archipelagosjournal.org/issue02/playing-haiti.html) and [A Close Playing: The Videogames of Patrick Chamoiseau](https://archipelagosjournal.org/issue07/lauro-close-playing.html). 
 
-### Wax
+### Kill the Overseer
 
-[Wax](https://minicomp.github.io/wax/) is a minimal computing ([minicomp](https://github.com/minicomp)) framework for the creation of static web collections and exhibits led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp at New York University and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. Wax depends on [Jekyll](https://jekyllrb.com), the static site generator, and a host of other open source libraries and frameworks including [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/). Wax builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
+[Kill the Overseer](https://www.upress.umn.edu/book-division/books/kill-the-overseer) is a forerunner from the University of Minnesota Press devoted to commemorations of enslaved resistance in all kinds of videogames, from educational, to art games, to mainstream entertainment games. It explores the representation of slave revolt in video games—and the trouble with making history playable. 
+
+

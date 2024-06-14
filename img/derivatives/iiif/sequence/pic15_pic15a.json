@@ -37,8 +37,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/pic15_pic15b.json",
       "label": "Page 2",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pic15_pic15b/full/250,/0/default.jpg",
       "images": [
         {
@@ -54,8 +54,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pic15_pic15b",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/pic15_pic15b.json"
         }
@@ -63,10 +63,66 @@ layout: none
     },
     {
       "@type": "sc:Canvas",
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/pic15_pic15e.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/pic15_pic15c.json",
       "label": "Page 3",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pic15_pic15c/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/pic15_pic15c.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pic15_pic15c/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pic15_pic15c",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 3024,
+            "height": 4032
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/pic15_pic15c.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/pic15_pic15d.json",
+      "label": "Page 4",
+      "width": 3024,
+      "height": 4032,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pic15_pic15d/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/pic15_pic15d.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pic15_pic15d/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pic15_pic15d",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 3024,
+            "height": 4032
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/pic15_pic15d.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/pic15_pic15e.json",
+      "label": "Page 5",
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pic15_pic15e/full/250,/0/default.jpg",
       "images": [
         {
@@ -82,8 +138,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pic15_pic15e",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/pic15_pic15e.json"
         }

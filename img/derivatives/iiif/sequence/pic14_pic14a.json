@@ -37,8 +37,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/pic14_pic14b.json",
       "label": "Page 2",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pic14_pic14b/full/250,/0/default.jpg",
       "images": [
         {
@@ -54,8 +54,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/pic14_pic14b",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/pic14_pic14b.json"
         }

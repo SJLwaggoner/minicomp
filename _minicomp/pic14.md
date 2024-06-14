@@ -3,7 +3,7 @@ pid: pic14
 artist: "Woodly Caymitte\t"
 location: Bordeaux, France
 commemorative_style: NA
-label: Statue of enslaved woman Modeste Testas (1765 – 1870)
+label: Statue of enslaved woman Modeste Testas (1765 – 1870) 
 _date: '2019'
 object_type: Monument
 concerning: Haiti, Ethiopia, France

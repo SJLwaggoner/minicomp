@@ -65,7 +65,8 @@ menu:
     sub:
       - label: "Parallax Images"
         link: "/exhibits/parallax/"
-      - label: "Image References"
+
+      - label: "Other Resources"
         link: "/exhibits/references/"
       - label: "Subset Collection"
         link: "/exhibits/subset/"

@@ -18,8 +18,10 @@ layout: home
 
 ---
 
-Welcome! This website challenges readers to evaluate different commemorative gestures for the way that they offer the public a reminder of slavery and the historical reality of enslaved resistance. Some of these offer the viewer an opportunity to interact with the monument, museum display, or marker; others, resist the viewer with subvisible or inscrutable elements. Monumental is created in tandem with a book project and draws from research I have been chronicling for some years on my [Tumblr site](https://www.tumblr.com/slaveresistance). 
+This website challenges readers to evaluate different commemorative gestures for the way that they offer the public a reminder of slavery and the historical reality of enslaved resistance. Some of these offer the viewer an opportunity to interact with the monument, museum display, or marker; others, resist the viewer with subvisible or inscrutable elements. Monumental is created in tandem with a book project and draws from research I have been chronicling for some years on my [Tumblr site](https://www.tumblr.com/slaveresistance). 
 
-To learn more about our page and for news about related publications, see ["About"]({{site.baseurl}}/about/).
+To learn more about the project and for info about related publications, see ["About"]({{site.baseurl}}/about/).
 
-<div class="text-center"><a class="action-button btn" href="https://github.com/minicomp/wax-facets/" target="_blank" role="button">get me on Github</a></div>
+{% include inline_image.html collection='minicomp' pid='pic1' %}
+
+
