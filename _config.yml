@@ -1,0 +1,77 @@
+title: Monumental
+subtitle: Commemorations of resistance
+author:
+  name: Sarah Juliet Lauro
+  email: slauro@ut.edu
+description:
+  Images of commemorations, monuments, museum exhibits
+  related to the history of the transatlantic slave trade
+  and especially to acts of resistance and self-liberation
+baseurl: "/wax-facets"
+
+# --------------------------------------------------------------
+# COLLECTION SETTINGS
+# --------------------------------------------------------------
+# Wax leverages Jekyll collections for much of its
+# functionality, therefor some of the keys below are from
+# Jekyll while others are Wax-specific.
+# For more info, refer to:
+# ~> https://jekyllrb.com/docs/collections/
+
+collections:
+  exhibits:
+    output: true
+  minicomp: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: "minicomp_item" # the layout for the pages to use
+    metadata:
+      source: "minicomp.csv" # path to the metadata file within `_data`
+    images:
+      source: "raw_images/minicomp" # path to the directory of images within `_data`
+
+# --------------------------------------------------------------
+# SEARCH INDEX SETTINGS
+# --------------------------------------------------------------
+# You can create multiple search indexes below (though only one is
+# recommended!) by specifying
+# an `index` file to write it to and some `collections` for it to index
+# and running `$ bundle exec rake wax:search` .
+
+search:
+  main:
+    index: "/search/index.json" # file the index will get written to
+    collections:
+      minicomp:
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - artist
+          - location
+          - label
+          - _date
+          - monument_type
+          - concerning
+          
+          
+
+# --------------------------------------------------------------
+# SITE MENU SETTINGS
+# --------------------------------------------------------------
+# Each menu item needs a `label` (whats shown), and a `link`
+# (where it goes). An item can optionally have a dropdown
+# submenu via `sub`.
+
+menu:
+  - label: "Exhibits"
+    sub:
+      - label: "Parallax Images"
+        link: "/exhibits/parallax/"
+      - label: "Image References"
+        link: "/exhibits/references/"
+      - label: "Subset Collection"
+        link: "/exhibits/subset/"
+  - label: "Browse"
+    link: "/collection/"
+  - label: "Search"
+    link: "/search/"
+  - label: "About"
+    link: "/about/"
